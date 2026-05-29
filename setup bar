@@ -1,0 +1,2 @@
+/statusline show 5h limit and weekly limit
+/statusline i what hostname git and 5h and 7d limit to progress bar
